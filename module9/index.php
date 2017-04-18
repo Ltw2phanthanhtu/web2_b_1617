@@ -18,7 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="footer">
-          <ul class="sidebar_ four">
+          <ul class="sidebar_four">
 
             <li class="descrip">
               <div class="textwidget">
