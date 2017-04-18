@@ -1,0 +1,44 @@
+.module-8 {
+  background-image: url(../images/background.png);
+}
+.hinh-module-8 img {
+  width: 750px;
+  height: 500px;
+  margin: 100px;
+}
+.Khung-module-8 {
+  position: fixed;
+  top: 50px;
+  background: #fff;
+  width: 550px;
+  height: 400px;
+  left: 720px;
+  padding-left: 40px;
+  display: block;
+  position: absolute;
+}
+.our {
+  font-family: 'Kristi';
+  font-size: 55px;
+  line-height: 50px;
+  color: #cfa670;
+}
+.txt {
+  font-size: 15px;
+}
+.buttom {
+  background-color: #000000;
+  padding: .6em 1.7em .6em 1.7em;
+  text-transform: uppercase;
+}
+.Khung-module-8 a {
+  text-decoration: none;
+  color: #fff;
+}
+.Restaurant {
+  font-size: 50px;
+}
+p {
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
