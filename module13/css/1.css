@@ -1,0 +1,27 @@
+.module17 .douong {
+  height: 217px;
+  color: white;
+}
+.module17 .douong .title1 {
+  background-image: url(../images/background2.jpg);
+  background-size: 100%;
+  position: relative;
+  clearfix: both;
+}
+.module17 .douong .title1 .paratitle {
+  z-index: 9;
+  text-align: center;
+  bottom: 20px;
+  width: 100% !important;
+  font-size: 60px;
+  text-transform: uppercase;
+}
+.module17 .douong .title1 .paratitle h2 {
+  color: white !important;
+}
+.module17 .douong .title1 .paratitle .wine {
+  font-family: Kristi, "Comic Sans MS", cursive, sans-serif;
+  margin: 500px;
+  color: #cfa670;
+  text-transform: lowercase;
+}
