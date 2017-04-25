@@ -1,0 +1,53 @@
+.bg {
+  background-image: url(../images/paper.jpg);
+}
+.bg .container .row .txtproducts .text12 {
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  padding: 0 0 0 15px;
+}
+.bg .container .row .txtproducts .products .col-md-4 {
+  width: 33.3%;
+}
+.bg .container .row .txtproducts .products .col-md-4 .module-12 {
+  text-align: center;
+}
+.bg .container .row .txtproducts .products .col-md-4 .module-12 .img12 {
+  max-width: 100%;
+  height: auto !important;
+  padding-bottom: 15px;
+}
+.bg .container .row .txtproducts .products .col-md-4 .module-12 .text12-1 {
+  font-size: 16px !important;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-top: 5px !important;
+  color: #000000;
+}
+.bg .container .row .txtproducts .products .col-md-4 .module-12 .price12 {
+  font-size: 16px !important;
+  color: #cfa670;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e1e1e1;
+  margin-bottom: 50px;
+}
+.bg .container .row .txtproducts .products .col-md-4 .module-12 .button {
+  text-transform: uppercase !important;
+  border: 0 !important;
+  padding: 0 !important;
+  letter-spacing: 2px !important;
+  font-family: 'Lato', 'Helvetica Neue', Arial, Verdana, sans-serif !important;
+  font-weight: 600 !important;
+  position: relative !important;
+  background: transparent !important;
+  margin-top: 0;
+  opacity: 0.3;
+  color: #222 !important;
+  font-size: 12px !important;
+  display: block;
+  margin: auto;
+}
