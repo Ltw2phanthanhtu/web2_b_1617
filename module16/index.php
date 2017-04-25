@@ -20,9 +20,8 @@
     <div class="container">
       <div class="row">
         <div class="title1">
-
-          <p class="title2">delightful</p><br>
-          <p class="title3">Experience</p>
+          <p class="title2">chief</p>
+          <p class="title3">RECOMMENDED</p>
         </div>
 
 
@@ -71,7 +70,51 @@
               <p class="mota">Mushroom / Garlic / Veggies</p>
             </div>
           </div>
+        <div class="abc">
+          <div class="monan">
+            <img src="images/hinh1.jpg" class="cangiua">
+            <div class="bg">
+              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
+              <p class="cham"></p>
+              <p class="price">$19.9</p>
+              <p class="mota">Mushroom / Garlic / Veggies</p>
+            </div>
+          </div>
 
+
+          <div class="monan">
+            <img src="images/hinh2.jpg" class="cangiua">
+            <div class="bg">
+              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
+              <p class="cham"></p>
+              <p class="price">$19.9</p>
+              <p class="mota">Mushroom / Garlic / Veggies</p>
+            </div>
+          </div>
+
+
+
+          <div class="monan">
+            <img src="images/hinh3.jpg" class="cangiua">
+            <div class="bg">
+              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
+              <p class="cham"></p>
+              <p class="price">$19.9</p>
+              <p class="mota">Mushroom / Garlic / Veggies</p>
+            </div>
+          </div>
+
+
+
+          <div class="monan">
+            <img src="images/hinh4.jpg" class="cangiua">
+            <div class="bg">
+              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
+              <p class="cham"></p>
+              <p class="price">$19.9</p>
+              <p class="mota">Mushroom / Garlic / Veggies</p>
+            </div>
+          </div>
 
         </div>
       </div>

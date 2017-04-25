@@ -90,11 +90,11 @@
   text-transform: uppercase;
 }
 .module-07 .content .text .menu_content_classic .menu_highlight {
-  width: 14px;
-  height: 14px;
+  width: 18px;
+  height: 18px;
   line-height: 14px;
   text-align: center;
-  padding: 3px;
+  padding: 4px;
   background: #cfa670;
   color: #fff;
   float: right;

@@ -31,7 +31,9 @@
         <div class="img">
           <div class="img_content">
               <div class="img_content1">
+              
               <img class="img01" src="images/img-04.jpg">
+
               </div>
               <div class="img04_content2">
                 <h2 class="txt1">

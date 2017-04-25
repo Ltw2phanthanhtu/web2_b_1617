@@ -10,6 +10,7 @@
   $less->compileFile('less/2.less', 'css/2.css');
   ?>
   <link href="css/2.css" rel="stylesheet" type="text/css" />
+  <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 
 </head>
 
