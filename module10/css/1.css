@@ -1,0 +1,54 @@
+.module10 {
+  color: #efc337;
+  font-family: 'Tahoma', serif;
+  background-color: #333;
+  width: 100%;
+  height: 80px;
+  color: #424242;
+  padding-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.col-md-7 {
+  background-color: #1b1b1b;
+  list-style-type: none;
+  color: #736868;
+  height: 70px;
+  padding: 10px;
+  padding-top: 30px;
+  padding-right: 200px;
+  text-align: center;
+  padding-left: 20px;
+  font-size: 11px;
+}
+.col-md-5 {
+  background-color: #1b1b1b;
+  list-style-type: none;
+  color: #736868;
+  height: 70px;
+  padding: 10px;
+  text-align: center;
+  padding-left: 20px;
+}
+.col-md-5 ul {
+  background-color: #1b1b1b;
+  list-style-type: none;
+  color: #fff;
+}
+.col-md-5 ul li {
+  padding-right: 40px;
+  padding-left: 0;
+  display: inline;
+  color: #fff;
+}
+.col-md-5 ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 11px;
+}
+.col-md-5 ul li button {
+  width: 50px;
+  height: 50px;
+  background-color: #736868;
+  color: #000000;
+}
