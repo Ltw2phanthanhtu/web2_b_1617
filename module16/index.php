@@ -9,6 +9,7 @@
   ?>
   <link href="css/1.css" rel="stylesheet" type="text/css" />
   <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+  <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
   <link href="fonts/" rel='stylesheet' type='text/css'>
   <link href="images/" rel='stylesheet' type='text/css'>
 
@@ -17,7 +18,7 @@
 <body>
 
   <div class="module805">
-    <div class="container">
+    <div >
       <div class="row">
         <div class="title1">
           <p class="title2">chief</p>
@@ -25,81 +26,137 @@
         </div>
 
 
-        <div class="abc">
+        <div class="menu">
           <div class="monan">
+            <div class="hinh_nut">
+            <div class="button_wrapper">
+              <div class="button_center">
+                <div class="button">
+                  <a href="#" class="fancy">
+                    <i class="fa fa-search fa-2x" aria-hidden="true"></i>
+                  </a>
+                  <a href="#" class="fancy">
+                    <i class="fa fa-shopping-cart fa-2x"></i>
+                  </a>
+                </div>
+              </div>
+              
+            </div>
             <img src="images/hinh1.jpg" class="cangiua">
+            </div>
             <div class="bg">
-              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
-              <p class="cham"></p>
-              <p class="price">$19.9</p>
+              <span class="ten">ITALIAN SOURCE MUSHROOM</span>
+              <span class="cham"></span>
+              <span class="price">$19.9</span>
               <p class="mota">Mushroom / Garlic / Veggies</p>
+
+
+
             </div>
           </div>
 
-
           <div class="monan">
+            <div class="hinh_nut">
+            <div class="button_wrapper">
+              <div class="button_center">
+                <div class="button">
+                  <a href="#" class="fancy">
+                    <i class="fa fa-search fa-2x" aria-hidden="true"></i>
+                  </a>
+                  <a href="#" class="fancy">
+                    <i class="fa fa-shopping-cart fa-2x"></i>
+                  </a>
+                </div>
+              </div>
+              
+            </div>
             <img src="images/hinh2.jpg" class="cangiua">
+            </div>
             <div class="bg">
-              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
-              <p class="cham"></p>
-              <p class="price">$19.9</p>
+              <span class="ten">ITALIAN SOURCE MUSHROOM</span>
+              <span class="cham"></span>
+              <span class="price">$19.9</span>
               <p class="mota">Mushroom / Garlic / Veggies</p>
+
+
+
             </div>
           </div>
 
-
-
+          
           <div class="monan">
+            <div class="hinh_nut">
+            <div class="button_wrapper">
+              <div class="button_center">
+                <div class="button">
+                  <a href="#" class="fancy">
+                    <i class="fa fa-search fa-2x" aria-hidden="true"></i>
+                  </a>
+                  <a href="#" class="fancy">
+                    <i class="fa fa-shopping-cart fa-2x"></i>
+                  </a>
+                </div>
+              </div>
+              
+            </div>
             <img src="images/hinh3.jpg" class="cangiua">
+            </div>
             <div class="bg">
-              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
-              <p class="cham"></p>
-              <p class="price">$19.9</p>
+              <span class="ten">ITALIAN SOURCE MUSHROOM</span>
+              <span class="cham"></span>
+              <span class="price">$19.9</span>
               <p class="mota">Mushroom / Garlic / Veggies</p>
             </div>
           </div>
 
 
-
           <div class="monan">
+            <div class="hinh_nut">
+            <div class="button_wrapper">
+              <div class="button_center">
+                <div class="button">
+                  <a href="#" class="fancy">
+                    <i class="fa fa-search fa-2x" aria-hidden="true"></i>
+                  </a>
+                  <a href="#" class="fancy">
+                    <i class="fa fa-shopping-cart fa-2x"></i>
+                  </a>
+                </div>
+              </div>
+              
+            </div>
             <img src="images/hinh4.jpg" class="cangiua">
-            <div class="bg">
-              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
-              <p class="cham"></p>
-              <p class="price">$19.9</p>
-              <p class="mota">Mushroom / Garlic / Veggies</p>
             </div>
-          </div>
-        <div class="abc">
-          <div class="monan">
-            <img src="images/hinh1.jpg" class="cangiua">
             <div class="bg">
-              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
-              <p class="cham"></p>
-              <p class="price">$19.9</p>
+              <span class="ten">ITALIAN SOURCE MUSHROOM</span>
+              <span class="cham"></span>
+              <span class="price">$19.9</span>
               <p class="mota">Mushroom / Garlic / Veggies</p>
             </div>
           </div>
 
-
+          
           <div class="monan">
-            <img src="images/hinh2.jpg" class="cangiua">
-            <div class="bg">
-              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
-              <p class="cham"></p>
-              <p class="price">$19.9</p>
-              <p class="mota">Mushroom / Garlic / Veggies</p>
+            <div class="hinh_nut">
+            <div class="button_wrapper">
+              <div class="button_center">
+                <div class="button">
+                  <a href="#" class="fancy"">
+                    <i class="fa fa-search fa-2x" aria-hidden="true"></i>
+                  </a>
+                  <a href="#" class="fancy">
+                    <i class="fa fa-shopping-cart fa-2x"></i>
+                  </a>
+                </div>
+              </div>
+              
             </div>
-          </div>
-
-
-
-          <div class="monan">
-            <img src="images/hinh3.jpg" class="cangiua">
+            <img src="images/hinh5.jpg" class="cangiua">
+            </div>
             <div class="bg">
-              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
-              <p class="cham"></p>
-              <p class="price">$19.9</p>
+              <span class="ten">ITALIAN SOURCE MUSHROOM</span>
+              <span class="cham"></span>
+              <span class="price">$19.9</span>
               <p class="mota">Mushroom / Garlic / Veggies</p>
             </div>
           </div>
@@ -107,14 +164,83 @@
 
 
           <div class="monan">
-            <img src="images/hinh4.jpg" class="cangiua">
+            <div class="hinh_nut">
+            <div class="button_wrapper">
+              <div class="button_center">
+                <div class="button">
+                  <a href="#" class="fancy"">
+                    <i class="fa fa-search fa-2x" aria-hidden="true"></i>
+                  </a>
+                  <a href="#" class="fancy">
+                    <i class="fa fa-shopping-cart fa-2x"></i>
+                  </a>
+                </div>
+              </div>
+              
+            </div>
+            <img src="images/hinh5.jpg" class="cangiua">
+            </div>
             <div class="bg">
-              <p class="ten">ITALIAN SOURCE MUSHROOM</p>
-              <p class="cham"></p>
-              <p class="price">$19.9</p>
+              <span class="ten">ITALIAN SOURCE MUSHROOM</span>
+              <span class="cham"></span>
+              <span class="price">$19.9</span>
               <p class="mota">Mushroom / Garlic / Veggies</p>
             </div>
           </div>
+
+
+          <div class="monan">
+            <div class="hinh_nut">
+            <div class="button_wrapper">
+              <div class="button_center">
+                <div class="button">
+                  <a href="#" class="fancy"">
+                    <i class="fa fa-search fa-2x" aria-hidden="true"></i>
+                  </a>
+                  <a href="#" class="fancy">
+                    <i class="fa fa-shopping-cart fa-2x"></i>
+                  </a>
+                </div>
+              </div>
+              
+            </div>
+            <img src="images/hinh7.jpeg" class="cangiua">
+            </div>
+            <div class="bg">
+              <span class="ten">ITALIAN SOURCE MUSHROOM</span>
+              <span class="cham"></span>
+              <span class="price">$19.9</span>
+              <p class="mota">Mushroom / Garlic / Veggies</p>
+            </div>
+          </div>
+
+
+          <div class="monan">
+            <div class="hinh_nut">
+            <div class="button_wrapper">
+              <div class="button_center">
+                <div class="button">
+                  <a href="#" class="fancy"">
+                    <i class="fa fa-search fa-2x" aria-hidden="true"></i>
+                  </a>
+                  <a href="#" class="fancy">
+                    <i class="fa fa-shopping-cart fa-2x"></i>
+                  </a>
+                </div>
+              </div>
+              
+            </div>
+            <img src="images/hinh8.jpg" class="cangiua">
+            </div>
+            <div class="bg">
+              <span class="ten">ITALIAN SOURCE MUSHROOM</span>
+              <span class="cham"></span>
+              <span class="price">$19.9</span>
+              <p class="mota">Mushroom / Garlic / Veggies</p>
+            </div>
+          </div>
+
+
 
         </div>
       </div>

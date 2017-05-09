@@ -26,7 +26,9 @@
               <a href="#">
                 <img class="img12" src="images/img1.jpg">
                 <h3 class="text12-1">Grilled Salmon Sushi</h3>
+                <span class="price">
                 <span class="price12">£17.55</span><br> 
+                </span>
               </a>
               <a href="#"> <i class="fa fa-shopping-cart"> Add to cart</i></a>
             </div>
@@ -36,7 +38,9 @@
               <a href="#">
                 <img class="img12" src="images/img2.jpg">
                 <h3 class="text12-1">Grilled Salmon Sushi</h3>
-                 <span class="price12">£17.55</span><br> 
+                <span class="price">
+                 <span class="price12">£17.55</span><br>
+                 </span>
               </a>
               <a href="#"> <i class="fa fa-shopping-cart"> Add to cart</i></a>
             </div>
@@ -46,7 +50,9 @@
               <a href="#">
                 <img class="img12" src="images/img3.jpg">
                 <h3 class="text12-1">Grilled Salmon Sushi</h3>
+                <span class="price">
                  <span class="price12">£17.55</span><br> 
+                 </span>
               </a>
               <a href="#"> <i class="fa fa-shopping-cart"> Add to cart</i></a>
             </div>

@@ -13,31 +13,35 @@
 .bg .container .row .txtproducts .products .col-md-4 {
   width: 33.3%;
 }
-.bg .container .row .txtproducts .products .col-md-4 .module-12 {
+.bg .container .row .txtproducts .products .col-md-4 .module-12 a {
+  text-decoration: none;
   text-align: center;
 }
-.bg .container .row .txtproducts .products .col-md-4 .module-12 .module-12 a {
-  text-decoration: inline;
-}
-.bg .container .row .txtproducts .products .col-md-4 .module-12 .img12 {
+.bg .container .row .txtproducts .products .col-md-4 .module-12 a .img12 {
   max-width: 100%;
   height: auto !important;
   padding-bottom: 15px;
 }
-.bg .container .row .txtproducts .products .col-md-4 .module-12 .text12-1 {
+.bg .container .row .txtproducts .products .col-md-4 .module-12 a .text12-1 {
   font-size: 16px !important;
   text-transform: uppercase;
   font-weight: 600;
   margin-top: 5px !important;
   color: #000000;
 }
-.bg .container .row .txtproducts .products .col-md-4 .module-12 .price12 {
+.bg .container .row .txtproducts .products .col-md-4 .module-12 a .price {
+  padding-bottom: 10px;
+  text-align: center;
+  border-bottom: 1px solid #e1e1e1;
+  display: block;
+  font-weight: 400;
+  margin-bottom: .5em;
+}
+.bg .container .row .txtproducts .products .col-md-4 .module-12 a .price .price12 {
   font-size: 16px !important;
   color: #cfa670;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #e1e1e1;
 }
-.bg .container .row .txtproducts .products .col-md-4 .module-12 .fa {
+.bg .container .row .txtproducts .products .col-md-4 .module-12 a .fa {
   text-transform: uppercase;
   border: 0;
   padding: 30px;
@@ -49,4 +53,7 @@
   font-size: 12px;
   display: block;
   margin: auto;
+}
+.bg .container .row .txtproducts .products .col-md-4 .module-12 a .fa:hover {
+  opacity: 1;
 }
