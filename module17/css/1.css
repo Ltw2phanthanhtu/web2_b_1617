@@ -1,9 +1,16 @@
+.module17 {
+  background-image: url(../images/background2.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-position: center center;
+  max-width: 100%;
+}
 .module17 .douong {
   height: 217px;
   color: white;
 }
 .module17 .douong .title1 {
-  background-image: url(../images/background2.jpg);
   background-size: 100%;
   position: relative;
   clearfix: both;
@@ -24,4 +31,103 @@
   margin: 500px;
   color: #cfa670;
   text-transform: lowercase;
+  font-size: 70px;
+}
+.module17 .douong .title2 {
+  text-transform: uppercase;
+  border-bottom: 1px solid #222;
+  color: #000;
+  letter-spacing: 2px;
+  padding-top: 30px;
+  display: inline-block;
+}
+.module17 .douong .ChuDe {
+  text-align: center;
+}
+.module17 .douong .menudrink {
+  background-image: url(../images/paper_bg.png);
+  width: inherit;
+  margin-top: 50px;
+  margin-bottom: 250px;
+  padding-bottom: 500px;
+}
+.module17 .douong .menudrink .gop {
+  width: 30%;
+  float: left;
+  margin: 0 30px;
+  display: block;
+  padding: 0 80px;
+}
+.module17 .douong .menudrink .gop .one_third {
+  width: 33, 33%;
+  position: relative;
+  box-sizing: border-box;
+}
+.module17 .douong .menudrink .gop .one_third .contentmenu {
+  width: 100%;
+}
+.module17 .douong .menudrink .gop .one_third .contentmenu .menupost {
+  font-weight: 600px;
+  font-size: 14px;
+  text-transform: uppercase;
+  position: relative;
+}
+.module17 .douong .menudrink .gop .one_third .contentmenu .menupost .menu_price {
+  height: 18px;
+  line-height: 14px;
+  text-align: center;
+  padding: 3px 7px 3px 7px;
+  float: right;
+  font-size: 16px;
+}
+.module17 .douong .menudrink .gop .one_third .contentmenu .menupost .menu_dots {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  margin: 0;
+  border: 0;
+  height: 3px;
+  display: block;
+  background-image: radial-gradient(circle closest-side,#ccc 80%,#fff 10%);
+  background-position: bottom;
+  background-size: 4px 2px;
+  background-repeat: repeat-x;
+}
+.module17 .douong .menudrink .gop .one_third .contentmenu .descrip {
+  color: #424242;
+  font-size: 14px;
+}
+.module17 .douong span {
+  color: #000;
+  font-weight: bold;
+  font-size: 16px;
+}
+.module17 .Oder {
+  height: 18px;
+  line-height: 14px;
+  text-align: center;
+  padding: 3px 7px 3px 7px;
+  background: #cfa670;
+  color: #fff;
+  float: right;
+  font-size: 10px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.module17 .fa-star {
+  height: 18px;
+  line-height: 14px;
+  text-align: center;
+  padding: 3px 7px 3px 7px;
+  background: #cfa670;
+  color: #fff;
+  float: right;
+  font-size: 10px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.module17 .Chu-De {
+  margin-right: 5px;
 }

@@ -2,43 +2,111 @@
   background-color: #262626;
   background-size: cover;
 }
-.module09 li {
-  list-style: none;
-}
 .module09 .footer {
+  color: #999999;
+  border-color: #e1e1e1;
   width: 100%;
   margin: auto;
+  padding-bottom: 50px;
+  margin-bottom: 0;
+  padding-top: 50px;
+  float: left;
 }
-.module09 .footer ul .sidebar_four {
+.module09 .footer .sidebar_four {
   width: 100%;
+  box-sizing: border-box;
   margin: auto;
   padding: 0 90px;
+  list-style: none;
 }
-.module09 .footer .sidebar_four li {
-  width: 20%;
-  float: left;
-  margin-right: 5%;
+.module09 .footer .sidebar_four .descrip .textwidget {
+  padding-top: 10px;
 }
-.module09 .footer .sidebar_four h2 {
-  color: #ffffff;
-  font-size: 23px;
+.module09 .footer .sidebar_four .descrip .textwidget .text {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
-.module09 .footer .sidebar_four .textwidget img {
-  max-width: 95%;
-  height: auto;
-}
-.module09 .footer .sidebar_four .textwidget img .social {
+.module09 .footer .sidebar_four .descrip .textwidget .social {
   width: 100%;
+  margin: 20px 0 5px 0;
 }
-.module09 .footer .sidebar_four .textwidget img .social ul {
+.module09 .footer .sidebar_four .descrip .textwidget .social ul {
+  list-style: none;
+  margin-left: 0 !important;
+  text-align: left;
+}
+.module09 .footer .sidebar_four .descrip .textwidget .social ul li {
+  color: #ffffff;
+  padding: 0;
+  width: 15%;
+  font-size: 20px;
+  list-style: none;
   margin: 0;
   text-align: left;
 }
-.module09 .footer ul li {
-  width: 25%;
+.module09 .footer .sidebar_four .descrip .textwidget .social ul li a:active {
+  color: white !important;
+  line-height: 24px;
+  font-size: 24px;
+  margin: 0;
+}
+.module09 .footer .sidebar_four .descrip .textwidget .fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+.module09 .footer .sidebar_four .descrip2 .mota a {
+  color: #ffffff;
+}
+.module09 .footer .sidebar_four .descrip3 img {
+  width: 70px;
+  height: auto;
+}
+.module09 .footer .sidebar_four .descrip,
+.module09 .footer .sidebar_four .descrip2,
+.module09 .footer .sidebar_four .descrip3,
+.module09 .footer .sidebar_four .descrip4 {
+  margin-left: 50px;
+  padding: 100px;
+}
+.module09 .footer .sidebar_four li {
+  width: 20%;
+  margin-right: 5%;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+}
+.module09 .footer .sidebar_four h2 {
+  color: #ffffff;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
 .module09 .footer p {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
-  color: #999999;
+}
+.module09 .footer ul li {
+  width: 23%;
+  float: left;
+  margin: 0 auto;
+  padding: 10px;
+}
+.module09 h2 {
+  color: #fff;
+  font-size: 20px;
+}
+.module09 a:hover {
+  color: #cfa670;
+  text-decoration: none;
+}
+.module09 li {
+  list-style: none;
+  text-align: -webkit-match-parent;
 }

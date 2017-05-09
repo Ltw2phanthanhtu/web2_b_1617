@@ -1,27 +1,155 @@
-.module17 .douong {
-  height: 217px;
-  color: white;
+.module13 {
+  background-image: url(../images/paper_bg.png);
 }
-.module17 .douong .title1 {
-  background-image: url(../images/background2.jpg);
-  background-size: 100%;
-  position: relative;
-  clearfix: both;
+.module13 .detail {
+  width: 100%;
+  padding: 0;
+  margin-top: 0;
+  border: 0;
 }
-.module17 .douong .title1 .paratitle {
-  z-index: 9;
-  text-align: center;
-  bottom: 20px;
-  width: 100% !important;
-  font-size: 60px;
+.module13 .detail .hinh {
+  margin-bottom: 2em;
+}
+.module13 .detail .hinh img {
+  width: 700px;
+  height: 700px;
+  height: auto !important;
+  width: 48%;
+  float: left;
+  display: block;
+}
+.module13 .detail .chitiet {
+  margin-bottom: 2em;
+  float: right;
+  width: 48%;
+}
+.module13 .detail .chitiet .title {
+  clear: none;
+  margin-top: 0;
+  padding: 0;
+  font-size: 30px;
   text-transform: uppercase;
+  font-weight: 600;
 }
-.module17 .douong .title1 .paratitle h2 {
-  color: white !important;
-}
-.module17 .douong .title1 .paratitle .wine {
-  font-family: Kristi, "Comic Sans MS", cursive, sans-serif;
-  margin: 500px;
+.module13 .detail .chitiet .price {
   color: #cfa670;
-  text-transform: lowercase;
+  font-size: 30px;
+  font-weight: bold;
+}
+.module13 .detail .chitiet .description {
+  margin: 5px 0 10px 0;
+  padding-left: 0 !important;
+}
+.module13 .detail .chitiet .description p {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+.module13 .detail .chitiet .number {
+  margin-top: 2em;
+}
+.module13 .detail .chitiet .number .quantity {
+  float: left;
+  margin: 0 4px 0 0;
+}
+.module13 .detail .chitiet .number .quantity input {
+  -webkit-appearance: initial;
+  padding: 10px;
+}
+.module13 .detail .chitiet .number .quantity .addtocart {
+  color: #ffffff;
+  border-color: #222222;
+  background-color: #222222;
+  padding: 10px;
+  margin: 1em;
+}
+.module13 .detail .chitiet .number .quantity .tag {
+  clear: both;
+  display: block;
+  text-decoration: none;
+}
+.module13 .detail .chitiet .number .quantity .tag a {
+  color: #000000;
+}
+.module13 .detail .clearfix {
+  clear: both;
+}
+.module13 .tabmenu h1 {
+  padding: 50px 0;
+  font-weight: 400;
+  text-align: center;
+}
+.module13 .tabmenu p {
+  margin: 0 0 20px;
+  line-height: 1.5;
+}
+.module13 .tabmenu section {
+  display: none;
+  padding: 20px 0 0;
+  border-top: 1px solid #ddd;
+}
+.module13 .tabmenu input {
+  display: none;
+}
+.module13 .tabmenu label {
+  display: inline-block;
+  margin: 0 0 -1px;
+  padding: 15px 25px;
+  font-weight: 600;
+  text-align: center;
+  color: #bbb;
+  border: 1px solid transparent;
+}
+.module13 .tabmenu label:before {
+  font-family: fontawesome;
+  font-weight: normal;
+  margin-right: 10px;
+}
+.module13 .tabmenu label[for*='1']:before {
+  content: '\f1cb';
+}
+.module13 .tabmenu label[for*='2']:before {
+  content: '\f17d';
+}
+.module13 .tabmenu label[for*='3']:before {
+  content: '\f16b';
+}
+.module13 .tabmenu label[for*='4']:before {
+  content: '\f1a9';
+}
+.module13 .tabmenu label:hover {
+  color: #888;
+  cursor: pointer;
+}
+.module13 .tabmenu input:checked + label {
+  color: #555;
+  border: 1px solid #ddd;
+  border-top: 2px solid orange;
+  border-bottom: 1px solid #fff;
+}
+.module13 .tabmenu #tab1:checked ~ #content1,
+.module13 .tabmenu #tab2:checked ~ #content2,
+.module13 .tabmenu #tab3:checked ~ #content3,
+.module13 .tabmenu #tab4:checked ~ #content4 {
+  display: block;
+}
+.module13 .tabmenu .comment {
+  width: 100%;
+}
+.module13 .tabmenu .comment label {
+  display: none;
+}
+.module13 .tabmenu .comment label .ykien {
+  width: 100%;
+}
+.module13 .tabmenu .comment-name {
+  width: 33%;
+}
+.module13 .tabmenu .comment-name label {
+  display: none;
+}
+.module13 .tabmenu .comment-email {
+  width: 33%;
+}
+.module13 .tabmenu .comment-email label {
+  display: none;
 }
