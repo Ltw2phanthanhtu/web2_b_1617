@@ -17,7 +17,7 @@
 <body>
 <div class="module-8">
   <div class="hinh-module-8">
-    <img src="images.jpg/module8">
+    <img src="images/module8">
   </div>
   <div class="Khung-module-8">
     <p class="our">our</p>

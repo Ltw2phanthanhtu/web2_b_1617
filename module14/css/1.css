@@ -1,0 +1,176 @@
+@import "font-awesome-sprockets";
+@import "font-awesome";
+.module-14 {
+  background-image: url(../images/hinh1.jpg);
+  background-color: rgba(0,0,0,0);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.module {
+  background-color: #bc9767;
+  background: rgba(207,166,112,0.9) !important;
+  padding-top: 5px;
+}
+.top {
+  padding-left: 50px;
+}
+.fa-map-marker:before {
+  content: "\f041";
+}
+.top p {
+  display: inline-block;
+  margin-right: 5px;
+  font-size: 12px;
+  color: #fff;
+  line-height: 30px;
+  font-weight: 600;
+}
+.top i {
+  margin-right: 10px;
+  color: #fff;
+  font-size: 16px;
+}
+.top a {
+  margin-right: 5px;
+  color: #fff;
+  font-size: 12px;
+  line-height: 30px;
+  font-weight: 600;
+}
+.menu-top {
+  float: right;
+}
+.menu-top ul {
+  list-style-type: none;
+}
+.menu-top ul li {
+  display: inline;
+  margin-right: 10px;
+  padding-right: 10px;
+  line-height: 30px;
+  border-right: 1px solid rgba(255,255,255,0.2);
+}
+.menu-top ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 12px;
+}
+.icon-top {
+  margin: 0;
+  float: right;
+  width: auto;
+  padding-right: 100px;
+  line-height: 30px;
+}
+.icon-top ul li {
+  display: inline-block;
+  margin-right: 15px;
+}
+.icon-top ul li a {
+  color: #fff;
+}
+.txt1 p {
+  font-family: 'Kristi';
+  font-size: 55px;
+  line-height: 50px;
+  color: #cfa670;
+}
+.menu-mixed {
+  font-size: 50px;
+  color: #fff;
+}
+.ChuDe {
+  text-align: center;
+  padding-top: 400px;
+}
+.Khung-module14 {
+  position: fixed;
+  top: 120px;
+  right: -2px;
+  background: #fff;
+  width: 45px;
+  height: 160px;
+  text-align: center;
+  border-radius: 5px;
+}
+.Khung-module14 i {
+  font-size: 18px;
+  line-height: 40px;
+  color: #000000;
+}
+.logo-module-14 {
+  padding-left: 100px;
+}
+.logo-module-14 img {
+  width: 101px;
+  height: 34px;
+}
+.menu-module-14 {
+  float: right;
+  margin: 8px;
+  padding-left: 150px;
+  font-size: 12px;
+  margin-right: 55px;
+}
+.menu-module-14 a {
+  color: #fff;
+  text-decoration: none;
+}
+.menu-module-14 ul {
+  list-style-type: none;
+}
+.menu-module-14>ul>li {
+  display: inline;
+  margin: 20px;
+  position: relative;
+}
+.text-menu-1 {
+  float: right;
+  margin: 8px;
+  font-size: 12px;
+}
+.text-menu-1 p {
+  color: #fff;
+}
+.menu {
+  padding-top: 25px;
+}
+.menu-icon {
+  float: right;
+}
+.menu-icon a {
+  color: #fff;
+  text-decoration: none;
+  border: solid 2px #fff;
+  padding: 5px;
+}
+.nav_icon {
+  float: right;
+}
+.fa-bars {
+  padding-left: 20px;
+  font-size: 22px;
+}
+.menu-module-14>ul>li>ul {
+  display: none;
+  position: absolute;
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #000000;
+  padding: 20px 20px;
+  top: 36px;
+  left: -49px;
+  width: 189px;
+}
+.menu-module-14>ul>li:hover ul {
+  display: block;
+}
+.menu-module-14>ul>li>ul>li {
+  padding-bottom: 8px;
+}
+.clear {
+  clear: both;
+}

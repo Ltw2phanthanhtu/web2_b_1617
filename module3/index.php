@@ -23,14 +23,28 @@
       Book Online Or Call (1800)456-6743 
     </p>
     <div class="cham-tron"></div>
+
       <div class="Khung">
         <a target="_blank" href="#"><i class="fa fa-cog"></i></a><br>
         <a target="_blank" href="#"><i class="fa fa-edit"></i></a><br>
         <a target="_blank" href="#"><i class="fa fa-book"></i></a><br>
         <a target="_blank" href="#"><i class="fa fa-shopping-basket"></i></a>
       </div>
-
-  </div> 
+      <div class="Khung-Dai">
+        <div class="Noi-Dung">
+          <h5>PREDEFINED DEMOS</h5>
+          <p>Grand Restaurant is so powerful theme allow you to easily create your own style of restaurant site. Here are example that can be imported with one click.</p>
+        </div>
+        <ul class="Menu-Hinh">
+          <li><img src="images/screen1.jpg"></li>
+          <li><img src="images/screen2.jpg"></li>    
+          <li><img src="images/screen3.jpg"></li>    
+          <li><img src="images/screen4.jpg"></li>    
+          <li><img src="images/screen5.jpg"></li>    
+          <li><img src="images/screen6.jpg"></li>              
+        </ul>
+      </div>
+  </div>
 </div>
 </body>
 </html>
